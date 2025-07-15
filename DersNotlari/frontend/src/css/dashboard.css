@@ -1,0 +1,77 @@
+.dashboard-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 15px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  font-family: Arial, sans-serif;
+  color: #222;
+}
+.dashboard-container h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+  font-weight: 700;
+  font-size: 2rem;
+}
+.no-file {
+  color: #ff0000;
+  font-weight: bold;
+  background-color: #ffeeee;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.file-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  color: #2e7d32;
+  text-decoration: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background-color: #e8f5e9;
+  border: 1px solid #c8e6c9;
+  font-size: 0.9em;
+}
+
+.file-link:hover {
+  background-color: #d4edda;
+}
+.notes-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+}
+
+.notes-table thead {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.notes-table th,
+.notes-table td {
+  border: 1px solid #ddd;
+  padding: 12px 15px;
+  text-align: left;
+}
+
+.notes-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.notes-table tbody tr:hover {
+  background-color: #d6eaf8;
+  cursor: pointer;
+}
+
+.notes-table a {
+  color: #2980b9;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.notes-table a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "cBDg0+hb8mc09MkzkPvq3yRbVSu9j+aK0v/AL0eMkCM=",
+  "Source": "Backend",
+  "BasePath": "_content/Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Backend\\wwwroot",
+      "Source": "Backend",
+      "ContentRoot": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\079dbe60-cc40-4219-a496-522042faa368.pdf",
+      "SourceId": "Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "RelativePath": "uploads/079dbe60-cc40-4219-a496-522042faa368#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c9rlyyerak",
+      "Integrity": "QEeeRbwirVsr5exI6VpmWpbNIzxQ1KEX+vPUS1KYl28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\079dbe60-cc40-4219-a496-522042faa368.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf",
+      "SourceId": "Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "RelativePath": "uploads/15c2aeb1-5934-4d3e-b823-a71cf7d351ce#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ipajy4bdv6",
+      "Integrity": "CmGalh7LW6X91bKsqptjdqbxdVsznPqE/xgoOqNXUZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf"
+    },
+    {
+      "Identity": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\3f42811b-797f-4871-8911-9ea7227ad392.pdf",
+      "SourceId": "Backend",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\",
+      "BasePath": "_content/Backend",
+      "RelativePath": "uploads/3f42811b-797f-4871-8911-9ea7227ad392#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hm3zrzhpjp",
+      "Integrity": "GbT8VGTmh7tmDCV6FXZXgRLuhIDS6m8PcFRnXjBOc54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3f42811b-797f-4871-8911-9ea7227ad392.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/079dbe60-cc40-4219-a496-522042faa368.c9rlyyerak.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\079dbe60-cc40-4219-a496-522042faa368.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEeeRbwirVsr5exI6VpmWpbNIzxQ1KEX+vPUS1KYl28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 15:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c9rlyyerak"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/079dbe60-cc40-4219-a496-522042faa368.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEeeRbwirVsr5exI6VpmWpbNIzxQ1KEX+vPUS1KYl28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/079dbe60-cc40-4219-a496-522042faa368.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\079dbe60-cc40-4219-a496-522042faa368.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "577034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QEeeRbwirVsr5exI6VpmWpbNIzxQ1KEX+vPUS1KYl28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 15:51:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QEeeRbwirVsr5exI6VpmWpbNIzxQ1KEX+vPUS1KYl28="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/15c2aeb1-5934-4d3e-b823-a71cf7d351ce.ipajy4bdv6.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10459247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmGalh7LW6X91bKsqptjdqbxdVsznPqE/xgoOqNXUZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 14:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ipajy4bdv6"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmGalh7LW6X91bKsqptjdqbxdVsznPqE/xgoOqNXUZA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\15c2aeb1-5934-4d3e-b823-a71cf7d351ce.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10459247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CmGalh7LW6X91bKsqptjdqbxdVsznPqE/xgoOqNXUZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 14:54:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CmGalh7LW6X91bKsqptjdqbxdVsznPqE/xgoOqNXUZA="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3f42811b-797f-4871-8911-9ea7227ad392.hm3zrzhpjp.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\3f42811b-797f-4871-8911-9ea7227ad392.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbT8VGTmh7tmDCV6FXZXgRLuhIDS6m8PcFRnXjBOc54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 15:49:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hm3zrzhpjp"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3f42811b-797f-4871-8911-9ea7227ad392.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GbT8VGTmh7tmDCV6FXZXgRLuhIDS6m8PcFRnXjBOc54="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3f42811b-797f-4871-8911-9ea7227ad392.pdf",
+      "AssetFile": "C:\\Users\\Neslihan\\Desktop\\DersNotlari\\Backend\\wwwroot\\uploads\\3f42811b-797f-4871-8911-9ea7227ad392.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5134892"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GbT8VGTmh7tmDCV6FXZXgRLuhIDS6m8PcFRnXjBOc54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 15 Jul 2025 15:49:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GbT8VGTmh7tmDCV6FXZXgRLuhIDS6m8PcFRnXjBOc54="
+        }
+      ]
+    }
+  ]
+}

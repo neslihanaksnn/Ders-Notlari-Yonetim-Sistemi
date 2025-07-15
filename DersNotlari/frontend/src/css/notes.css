@@ -1,0 +1,23 @@
+.notes-container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.note-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+}
+
+.note-card h3 {
+  margin: 0 0 5px;
+}
+
+.note-card a {
+  display: inline-block;
+  margin-top: 10px;
+  color: blue;
+}
